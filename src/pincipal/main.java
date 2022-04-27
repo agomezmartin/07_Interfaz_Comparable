@@ -27,7 +27,10 @@ public class main {
 		 * deberemos programar un método "compareTo()"
 		 * en la clase creada.
 		 */
-		Socio[] listaSocios = { new Socio (1,"Alberto"), new Socio (2,"Flavio")};
+		Socio[] listaSocios = {
+				new Socio (1,"Alberto"),
+				new Socio (2,"Flavio")
+				};
 		
 	}
 
